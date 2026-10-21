@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//StaffPlanner//Fictional Sample Export//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Sample export - not a live export of your selections
+BEGIN:VEVENT
+UID:staffplanner-sample-grace@northstar.example
+DTSTAMP:20261019T070000Z
+DTSTART:20261019T080000Z
+DTEND:20261019T160000Z
+SUMMARY:SAMPLE - Grace Hayes approved absence
+DESCRIPTION:Fictional static sample. Not a live export of your selections.
+END:VEVENT
+BEGIN:VEVENT
+UID:staffplanner-sample-hugo@northstar.example
+DTSTAMP:20261019T070000Z
+DTSTART:20261020T080000Z
+DTEND:20261020T110000Z
+SUMMARY:SAMPLE - Hugo Irving approved absence
+DESCRIPTION:Fictional static sample. Not a live export of your selections.
+END:VEVENT
+END:VCALENDAR

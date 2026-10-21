@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Expo / Metro / Tamagui generated files and caches
+.expo/
+.tamagui/
+.cache/
+.metro-health-check*
+expo-env.d.ts
+tamagui.generated.css
+*.tsbuildinfo
+
+# Build and test output (static samples in public/exports stay tracked)
+/dist/
+/web-build/
+/coverage/
+/.nyc_output/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+.vercel/
+
+# Local environment configuration; sanitized templates may be shared
+.env
+.env.*
+!.env.example
+
+# Logs, temporary files, and local signing credentials
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.keystore
+*.mobileprovision
+
+# OS and personal editor artifacts; keep the shared workspace configuration
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/settings.json
+!.vscode/extensions.json

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "StaffPlanner Demo",
+    "slug": "staffplanner-demo",
+    "scheme": "staffplanner",
+    "platforms": ["web"],
+    "plugins": ["expo-router"],
+    "web": { "bundler": "metro", "output": "single", "name": "StaffPlanner" }
+  }
+}
